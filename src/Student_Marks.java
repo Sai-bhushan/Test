@@ -8,7 +8,7 @@ public class Student_Marks {
 		Scanner marks = new Scanner(System.in);
 		do
 		{
-			System.out.println("Enter marks for Maths");
+			//System.out.println("Enter marks for Maths");
 			maths = marks.nextInt();
 			System.out.println("Enter marks for Physics");
 			physics = marks.nextInt();
